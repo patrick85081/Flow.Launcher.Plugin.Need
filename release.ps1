@@ -1,0 +1,2 @@
+dotnet publish Flow.Launcher.Plugin.Need -c Release -r win-x64 --no-self-contained
+Compress-Archive -LiteralPath Flow.Launcher.Plugin.Need/bin/Release/win-x64/publish -DestinationPath Flow.Launcher.Plugin.Need/bin/Need.zip -Force
