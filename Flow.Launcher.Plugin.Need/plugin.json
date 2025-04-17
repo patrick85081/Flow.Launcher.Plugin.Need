@@ -1,4 +1,5 @@
 {
+    "$schema": "https://www.flowlauncher.com/schemas/plugin.schema.json",
     "ID": "C3F7B5F68198431B95B04A6D23CCC057",
     "ActionKeyword": "need",
     "Name": "Need",
@@ -6,7 +7,7 @@
     "Author": "Shinao",
     "Version": "1.0.0",
     "Language": "csharp",
-    "Website": "https://github.com/Shinao/Flow.Launcher.Plugin.Need",
+    "Website": "https://github.com/patrick85081/Flow.Launcher.Plugin.Need",
     "IcoPath": "icon.png",
     "ExecuteFileName": "Flow.Launcher.Plugin.Need.dll"
 }
